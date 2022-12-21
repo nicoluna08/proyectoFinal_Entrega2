@@ -1,0 +1,51 @@
+[
+  {
+    "codigo": "110021",
+    "descripcion": "tornillos 30 x 6",
+    "nombre": "tornillos Allem",
+    "precio": "17.5",
+    "stock": "100",
+    "foto": "https://static.lefties.com/9/photos2/2022/I/0/1/p/5912/306/526/5912306526_1_1_3.jpg?t=1658410034937",
+    "id": 1
+  },
+  {
+    "codigo": "110021",
+    "descripcion": "tuercas M6",
+    "nombre": "tornillos Allem",
+    "precio": "17.5",
+    "stock": "450",
+    "foto": "https://static.lefties.com/9/photos2/2022/I/0/1/p/5912/306/526/5912306526_1_1_3.jpg?t=1658410034937",
+    "id": 5,
+    "timestamp": 1669090627644
+  },
+  {
+    "codigo": "110021",
+    "descripcion": "tornillos 30 x 6",
+    "nombre": "tornillos Allem",
+    "precio": "17.5",
+    "stock": "100",
+    "foto": "https://static.lefties.com/9/photos2/2022/I/0/1/p/5912/306/526/5912306526_1_1_3.jpg?t=1658410034937",
+    "id": 7,
+    "timestamp": 1669090682328
+  },
+  {
+    "codigo": "110021",
+    "descripcion": "juego llaves",
+    "nombre": "tornillos Allem",
+    "precio": "1799.5",
+    "stock": "100",
+    "foto": "https://static.lefties.com/9/photos2/2022/I/0/1/p/5912/306/526/5912306526_1_1_3.jpg?t=1658410034937",
+    "id": 8,
+    "timestamp": 1669090683607
+  },
+  {
+    "codigo": "110021",
+    "descripcion": "tuercas M6",
+    "nombre": "tornillos Allem",
+    "precio": "17.5",
+    "stock": "100",
+    "foto": "https://static.lefties.com/9/photos2/2022/I/0/1/p/5912/306/526/5912306526_1_1_3.jpg?t=1658410034937",
+    "id": 9,
+    "timestamp": 1669090708554
+  }
+]
